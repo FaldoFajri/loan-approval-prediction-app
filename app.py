@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # load model
-model = joblib.load("d:\DigiCamp\loan_approval_model.pkl")
+model = joblib.load("loan_approval_model.pkl")
 
 st.title("Loan Approval Prediction App")
 
@@ -52,3 +52,4 @@ if st.button("Predict Loan Approval"):
         st.success("✅ Loan Approved")
     else:
         st.error("❌ Loan Rejected")
+
