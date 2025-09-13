@@ -30,7 +30,8 @@ The model was trained using classification algorithms (**XGBoost**) and deployed
 * 📚 Scikit-learn
 * 🌲 XGBoost
 * 🎨 Streamlit
-* 🐼 Pandas & 🔢 Numpy
+* 🐼 Pandas
+* 🔢 Numpy
 
 ---
 
